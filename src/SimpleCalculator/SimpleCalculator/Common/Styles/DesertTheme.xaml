@@ -5,6 +5,8 @@
     x:Class="SimpleCalculator.Common.Styles.DesertTheme">
 
     <Color x:Key="PrimaryColor">#FFFCE6</Color>
-    <Color x:Key="SecondaryColor">#7D1424</Color>
+	<Color x:Key="SecondaryColor">#7D1424</Color>
+	<Color x:Key="ButtonColor">#FFF9CD</Color>
+	<Color x:Key="NumberColor">#E5E2CF</Color>
 
 </ResourceDictionary>

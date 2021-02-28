@@ -5,6 +5,8 @@
     x:Class="SimpleCalculator.Common.Styles.LavaTheme">
 
     <Color x:Key="PrimaryColor">#F24D16</Color>
-    <Color x:Key="SecondaryColor">#FFFCE6</Color>
+	<Color x:Key="SecondaryColor">#FFFCE6</Color>
+	<Color x:Key="ButtonColor">#F5825B</Color>
+	<Color x:Key="NumberColor">#79260B</Color>
 
 </ResourceDictionary>

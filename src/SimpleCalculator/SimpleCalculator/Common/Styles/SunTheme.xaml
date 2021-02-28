@@ -6,5 +6,7 @@
 
     <Color x:Key="PrimaryColor">#EDD834</Color>
     <Color x:Key="SecondaryColor">#F24D16</Color>
+	<Color x:Key="ButtonColor">#F6EB99</Color>
+	<Color x:Key="NumberColor">#DBC413</Color>
 
 </ResourceDictionary>

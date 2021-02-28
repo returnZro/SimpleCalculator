@@ -5,6 +5,8 @@
     x:Class="SimpleCalculator.Common.Styles.ClayTheme">
 
     <Color x:Key="PrimaryColor">#7D1424</Color>
-    <Color x:Key="SecondaryColor">#FFFCE6</Color>
+	<Color x:Key="SecondaryColor">#FFFCE6</Color>
+	<Color x:Key="ButtonColor">#A91B31</Color>
+	<Color x:Key="NumberColor">#570E19</Color>
 
 </ResourceDictionary>
